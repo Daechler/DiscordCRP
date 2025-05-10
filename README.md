@@ -8,3 +8,6 @@ Download the binary file from the [releases](https://github.com/Daechler/Discord
 
 # How to use it?
 Works almost identically to the software shown in this video: https://www.youtube.com/watch?v=og0AeRHRVq8.
+
+# Additional notes
+Running this in a virtual environment under Linux can lead to problems with dbus.
